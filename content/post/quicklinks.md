@@ -14,12 +14,11 @@ author: Richard Martin
 
 [Firebase](https://firebase.google.com)
 [Forestry](https://forestry.io)
-[GitHub](https://github.io)
+[GitHub](https://github.com)
 
 ## Miscellaneous Links
 
 [Calendly](https://calendy.com)
-[Zoom](https://zoom.us)
+[Zoom](https://zoom.us) 
 [Trello](https://trello.com)
-
-\[Zoho Mail\](https://mail.zoho.com)
+[Zoho Mail](https://mail.zoho.com)
