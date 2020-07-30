@@ -1,0 +1,38 @@
+baseurl = "https://admindropbyte.ch/"
+languageCode = "en-us"
+theme = "hugo-theme-terminal"
+paginate = 5
+
+[params]
+  contentTypeName = "post"
+  themeColor = "red"
+  showMenuItems = 2
+  fullWidthTheme = true
+  centerTheme = false
+  menuMore = "Show more"
+  readMore = "Read more"
+  readOtherPosts = "Read other posts"
+
+[languages]
+  [languages.en]
+    title = "DropByte Admin Panel"
+    subtitle = "A Control Panel for Dropbyte's Backend"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "DropByte Admin Panel"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"
