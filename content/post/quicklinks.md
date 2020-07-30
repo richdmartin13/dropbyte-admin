@@ -18,7 +18,7 @@ author: Richard Martin
 
 ## Miscellaneous Links
 
-[Calendly](https://calendy.com)
+[Calendly](https://calendly.com)
 [Zoom](https://zoom.us) 
 [Trello](https://trello.com)
 [Zoho Mail](https://mail.zoho.com)
