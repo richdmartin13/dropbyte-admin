@@ -18,7 +18,8 @@ author: Richard Martin
 
 ## Miscellaneous Links
 
-[Calendly](https://calendly.com)
-[Zoom](https://zoom.us) 
+[HoneyBook](https://www.honeybook.com "HoneyBook")
+
+[Zoom](https://zoom.us)
 [Trello](https://trello.com)
 [Zoho Mail](https://mail.zoho.com)
