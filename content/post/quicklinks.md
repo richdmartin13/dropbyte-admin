@@ -21,5 +21,5 @@ author: Richard Martin
 [HoneyBook](https://www.honeybook.com "HoneyBook")
 
 [Zoom](https://zoom.us)
-[Trello](https://trello.com)
-[Zoho Mail](https://mail.zoho.com)
+
+ [Zoho Mail](https://mail.zoho.com)
