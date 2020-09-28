@@ -14,12 +14,8 @@ author: Richard Martin
 
 [Firebase](https://firebase.google.com)
 [Forestry](https://forestry.io)
-[GitHub](https://github.com)
+[GitHub](https://github.com) [Namecheap](https://namecheap.com "Namecheap")
 
-## Miscellaneous Links
+## Client Relations
 
-[HoneyBook](https://www.honeybook.com "HoneyBook")
-
-[Zoom](https://zoom.us)
-
- [Zoho Mail](https://mail.zoho.com)
+[HoneyBook](https://www.honeybook.com "HoneyBook") [Zoom](https://zoom.us) [Zoho Mail](https://mail.zoho.com)
