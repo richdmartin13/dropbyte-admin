@@ -14,7 +14,7 @@ author: Richard Martin
 
 [Firebase](https://firebase.google.com)
 [Forestry](https://forestry.io)
-[GitHub](https://github.com) [Namecheap](https://namecheap.com "Namecheap")
+[GitHub](https://github.com) [Namecheap](https://namecheap.com "Namecheap") [Rebrandly](https://app.rebrandly.com "Rebrandly")
 
 ## Client Relations
 
